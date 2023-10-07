@@ -1,8 +1,9 @@
-Ii- 👋 Hi, I’m @JeffBrill
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Jeffbrilll 
+I’m interested in Java programming
+I’m currently learning java
+I’m looking forward to assistance from you guy
+How to reach me: jeffbrill001@gmail.com.
+Thanks.
 
 <!---
 JeffBrill/JeffBrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
